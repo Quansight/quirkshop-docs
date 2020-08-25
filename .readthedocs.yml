@@ -7,7 +7,3 @@ python:
       - requirements: requirements.txt
 sphinx:
    configuration: conf.py
-
-
-submodules:
-  include: all
